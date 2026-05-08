@@ -9,3 +9,4 @@ joblib
 pillow
 python-multipart
 pymongo
+python-dotenv
